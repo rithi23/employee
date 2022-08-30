@@ -9,7 +9,7 @@ package com.ideas2it.employee.dao;
 import java.sql.SQLException;
 
 import java.util.ArrayList;
-import java.util.List; // hello
+import java.util.List;
 
 import com.ideas2it.employee.model.Employee; 
 import com.ideas2it.employee.model.Trainee;
@@ -77,7 +77,7 @@ public interface EmployeeDAO {
      * @param trainerId - is the id of trainer 
      * @updateValue updateValue is the new value for trainer
      */ 
-    public boolean updateAddressForTrainer(String trainerId, String updateValue) throws SQLException ;
+    public boolean updateAddressForTrainer(String trainerId, String updateValue) throws SQLException ; // please check the indendation 
 
     
     /**
