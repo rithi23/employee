@@ -16,7 +16,7 @@ package com.ideas2it.employee.common;
 public class Constants {
     public static final String employeeId = "employee_id";
     public  static final String name = "name";
-    public static final  String dateOfBirth = "date_of_birth";
+    public static final  String dateOfBirth = "Date_of_birth";
     public static final String age = "age";
     public static final String phoneNumber = "phone_number";
     public static final String emailId = "email_id";
