@@ -17,6 +17,8 @@
  * ANY DAMAGES SUFFERED BY LICENSEE AS A RESULT OF USING, MODIFYING OR
  * DISTRIBUTING THIS SOFTWARE OR ITS DERIVATIVES.
  */
+
+// Please redo from scratch
 package com.ideas2it.employee.controller;
 
 import java.sql.SQLException;
