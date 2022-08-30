@@ -7,7 +7,7 @@ package com.ideas2it.employee.common;
 
 /**
  * <p> 
- * This class have constant variables
+ * This class has constant variables
  * </p>
  *
  * @author RithiKanth B C
