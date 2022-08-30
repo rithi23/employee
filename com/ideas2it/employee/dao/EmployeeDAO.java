@@ -1,7 +1,7 @@
 /**
  * <p> 
  * Package for dao class 
- * Copyright 2022 - ideas2it.
+ * Copyright 2022 - ideas2i.
  * </p>
  */
 package com.ideas2it.employee.dao;
@@ -9,7 +9,7 @@ package com.ideas2it.employee.dao;
 import java.sql.SQLException;
 
 import java.util.ArrayList;
-import java.util.List;
+import java.util.List; // hello
 
 import com.ideas2it.employee.model.Employee; 
 import com.ideas2it.employee.model.Trainee;
