@@ -1,5 +1,4 @@
-/**
- * %W% %E% RithiKanth B C
+5 * %W% %E% RithiKanth B C
  *
  * Copyright (c) 2000 - 2020 ideas2it, Inc. All Rights Reserved.
  *
@@ -499,4 +498,5 @@ public class EmployeeController {
             sqlException.getMessage();
         }
     }                   
-}
+
+//its a sample
